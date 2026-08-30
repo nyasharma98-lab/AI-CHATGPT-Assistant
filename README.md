@@ -17,6 +17,6 @@ Python • Gemini API • Streamlit • GitHub
 App link:- 
 https://ai-chatgpt-assistant-j2mmswt3jdej3vup2xarw8.streamlit.app/
 
-Screenshot_20260829_183639.jpg
+
 
 
