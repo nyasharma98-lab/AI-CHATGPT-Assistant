@@ -13,3 +13,6 @@ A simple and interactive AI chatbot powered by Google Gemini and built with Pyth
 🛠️ Tech Stack
 
 Python • Gemini API • Streamlit • GitHub
+
+App link:- 
+https://ai-chatgpt-assistant-j2mmswt3jdej3vup2xarw8.streamlit.app/
